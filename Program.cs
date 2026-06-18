@@ -6,6 +6,7 @@ namespace POC_project
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            //password removed
             // Add services to the container.
             builder.Services.AddRazorPages();
 
